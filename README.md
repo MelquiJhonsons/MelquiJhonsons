@@ -1,4 +1,5 @@
 # Eu sou o Melqui e aqui você encontra algumas informações sobre mim. 😎✈️
+![banner](https://github.com/user-attachments/assets/5524fa54-6abd-4386-bca3-4b1f4199f723)
 
 Bem-vindo ao meu GitHub, onde os estudos por tecnologia se encontra com o sonho de voar alto, literalmente.
 
